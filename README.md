@@ -6,7 +6,7 @@
 </div>
 
 # Heart-Attack-Prediction
-A heart attack occurs when the flow of blood to the heart is severely reduced or blocked. A buildup of fat, cholesterol, and other substances in the heart (coronary) arteries may causes the blockage. According to the latest WHO data published Coronary Heart Disease Deaths in Malaysia reached 36,729 or 21.86% of total deaths [https://www.worldlifeexpectancy.com/malaysia-coronary-heart-disease]. Thus the objective of this Model is to provide heart attack prediction.
+A heart attack occurs when the flow of blood to the heart is severely reduced or blocked. A buildup of fat, cholesterol, and other substances in the heart (coronary) arteries may causes the blockage. According to the latest WHO data published Coronary Heart Disease Deaths in Malaysia reached 36,729 or 21.86% of total deaths [https://www.worldlifeexpectancy.com/malaysia-coronary-heart-disease]. Early prevention of heart attack disease is needed to reduce heart attack cases. Thus the objective of this project is to build a model that can provide and give heart attack prediction based on the heart attack dataset.
 
 # Step by step guide to install and run the project
 1) To launch the app, clone the project and execute it
