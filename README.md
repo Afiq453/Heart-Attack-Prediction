@@ -15,6 +15,9 @@ A heart attack occurs when the flow of blood to the heart is severely reduced or
 ## Accuracy achieved
 
 Accuracy that acieved is 85% using RandomForestClassifier
+![Accuracy of the model](https://user-images.githubusercontent.com/95134467/174760863-264511fe-5044-464f-ba69-e2b9e7548fc8.png)
+
+
 ## The Dataset was taken from
 'https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset'
 
