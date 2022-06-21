@@ -194,10 +194,6 @@ print('The best combination of the pipeline is {} with accuracy of {}'
 
 #%% STEP for SCV scalar approach (GRID SEARCH)
 
-#the best scalling approach for IRIS datasets will be Stanrd Scaler Approach + SVC with the accuracy 0.7802197802197802
-#from thje pipeline above, it is deduced that the pipeline with ss+ SVC
-# achieved the highest accuracy when tested against test datasets
-
 #fine tuning
 
 step_ss_rf =[('Standard Scaler', StandardScaler()),
